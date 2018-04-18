@@ -1,0 +1,36 @@
+basic
+	Sample1 (dsl)
+	Sample2 (annotations)
+	Sample3 (rule)
+	Sample4 (runner)
+	Sample5 (injection)
+
+configuration
+	Sample6 (basic)
+	Sample7 (wrong argument)
+	Sample8 (multiples returns)
+	Sample9 (exceptions)
+	Sample10 (argument matchers)
+	Sample11 (multiple argument matchers)
+
+answers
+	Sample12 (smart nulls - intro), Sample13 (smart nulls)
+	Sample14 (deep stubs - intro), Sample15 (deep stubs)
+	Sample16 (self)
+
+verify
+	Sample17 (intro), Sample18 (basic)
+	Sample19 (others samples)
+	Sample20 (in order - intro), Sample21 (in order)
+	Sample22 (captor - intro), Sample23 (captor)
+
+spy
+	Sample24 (basic)
+	Sample25 (annotations)
+
+extra interfaces
+	Sample26 (intro)
+	Sample27 (extra interfaces)
+
+void
+	Sample28 (configure void)
